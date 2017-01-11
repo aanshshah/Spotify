@@ -1,0 +1,12 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "A web application that leverages machine learning techniques to predict music that the user likes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Aansh Shah",
+  "license": "ISC"
+}
